@@ -1,1 +1,1 @@
-Deployed version: sonofglynn.github.io/gradebook-react
+Deployed version: [sonofglynn.github.io/gradebook-react](doc:https://github.com/sonofglynn)
