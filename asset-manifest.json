@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gradebook-react/static/css/main.b39be660.css",
+    "main.js": "/gradebook-react/static/js/main.30c2e6c6.js",
+    "index.html": "/gradebook-react/index.html",
+    "main.b39be660.css.map": "/gradebook-react/static/css/main.b39be660.css.map",
+    "main.30c2e6c6.js.map": "/gradebook-react/static/js/main.30c2e6c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b39be660.css",
+    "static/js/main.30c2e6c6.js"
+  ]
+}
